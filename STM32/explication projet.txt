@@ -1,0 +1,13 @@
+le projet n1 : sam-test-4g (1)_C 	language C
+c'est le premier projet de code  	(non fonctionel)
+essaies boucle parse : code maison + code git gps (NMEA) (je n'ai pas le lien)
+
+
+le projet n2 : Programme-4g-sam (2)_C 	language C
+c'est le deuxième projet de code 	 (fonctionel ?)
+la table uint8_t rxbuffer[100] contient les données récpérés (fonctionel ?)
+
+
+le projet n3 : 4G_GPS (3)_C++  		language C++
+c'est le troisième projet de code 	 (fonctionel)
+la table uint8_t rxdata[50] contient les données récpérés (fonctionel)
